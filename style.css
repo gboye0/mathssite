@@ -27,10 +27,10 @@ h1 a {
 
 #searchbox {
   float: right;
-  background: linear-gradient(#e4f2b9, #b7e953);
   background: -webkit-linear-gradient(#e4f2b9, #b7e953);
   background: -o-linear-gradient(#e4f2b9, #b7e953);
   background: -moz-linear-gradient(#e4f2b9, #b7e953);
+  background: linear-gradient(#e4f2b9, #b7e953);
   width: 400px;
   height: 50px;
   padding: 20px 20px 0 20px;
